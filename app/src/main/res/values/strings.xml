@@ -1,0 +1,5 @@
+<resources>
+  <string name="app_name">PaymentMethod</string>
+  <string name="purchase">Purchase</string>
+  <string name="payment_methods">Payment methods</string>
+</resources>
